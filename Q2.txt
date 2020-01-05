@@ -1,0 +1,9 @@
+問2
+「ボックスの中央揃え」は、 次のどれでしょうか。
+　　　1. margin: auto 0;
+　　　2. padding: 0 auto;
+　　　3. margin: 0 auto;
+　　　4. padding: auto 0;
+　　　
+A.
+3. margin: 0 auto;
