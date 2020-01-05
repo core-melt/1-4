@@ -1,12 +1,12 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 .clearfix::after {
-  content:"";
-  display:block;
-  clear:both;
+	content:"";
+	display:block;
+	clear:both;
 }
 .Title{
 	width: 100%;
